@@ -31,8 +31,5 @@
   },
   "dependencies": {
     "asn1.js": "^1.0.4"
-  },
-  "engines": {
-    "node": "~6.0."
   }
 }
